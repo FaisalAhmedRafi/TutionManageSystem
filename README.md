@@ -1,0 +1,1 @@
+Tution Management system is a software designed for working like a connection bridge for student and tutors. This was my final term project for the course Object Oriented Programming Language 2 ( C#) for the semester Fall 23. I focused on the nessesary features to ensure user comfortabilty while using this application.
