@@ -4,21 +4,23 @@
 The Tuition Management System is a C# application designed to simplify tuition-related operations, including managing students, tutors.The software designed for working like a connection bridge for student and tutors
 
 ## Features
-- Search students or turors based on users requirement.
+- Login with you credentials or Sign up for new account.
+- After Login you will see all you Credentials and a Separate section where You Can see Request made by other user's for you.
+- Search students or turors based on users requirement (e.g. Number of Days, University, Loation, Gender) and Request them if your Criterial mathches wiht them.
 - Both student and tutors can accept or reject a proposal.
-- Admin control
-- CRUD Operation
+- Report any user with Selected case or Write or own issue the admin will take action.
+- Admin control.
+- CRUD Operation.
 
 ## Technologies
 - Language: C#
-- Framework: .NET Framework / .NET Core
-- Database: SQL
+- Database: MS SQL
 - IDE: Visual Studio
 
 ## Getting Started
 ### Prerequisites
 - Visual Studio
-- .NET Framework / .NET Core SDK
+- Desktop Development (c#)
 - Git
 
 ### Installation
@@ -33,9 +35,11 @@ The Tuition Management System is a C# application designed to simplify tuition-r
 ## Usage
 - Login: Access the system using your credentials.
 - Manage Records: Add, edit, or delete student and tutor details.
-- Find your favrite student or tutor.
+- Find your favourite student or tutor based on your criteria.
 
 ## Contact
 - GitHub: FaisalAhmedRafi
 - Email: faisalahmedrafi71@gmail.com
+
+**Thank You**
 
