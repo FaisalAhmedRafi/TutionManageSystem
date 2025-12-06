@@ -151,7 +151,10 @@ namespace TutionManagementSystem
             }
         }
 
-        
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
 
         private void btnReset_Click(object sender, EventArgs e)
         {

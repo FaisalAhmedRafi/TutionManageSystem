@@ -20,3 +20,6 @@ D:\Programming\AIUB\C#\TutionManagementSystem\TutionManagementSystem\obj\Debug\T
 D:\Programming\AIUB\C#\TutionManagementSystem\TutionManagementSystem\obj\Debug\TutionManagementSystem.AdminUpdateStudent.resources
 D:\Programming\AIUB\C#\TutionManagementSystem\TutionManagementSystem\obj\Debug\TutionManagementSystem.AdminUpdateTutor.resources
 D:\Programming\AIUB\C#\TutionManagementSystem\TutionManagementSystem\obj\Debug\TutionManagementSystem.Report.resources
+D:\Programming\AIUB\C#\TutionManagementSystem\TutionManagementSystem\obj\Debug\TutionManagementSystem.exe.config
+D:\Programming\AIUB\C#\TutionManagementSystem\TutionManagementSystem\bin\Debug\TutionManagementSystem.mdf
+D:\Programming\AIUB\C#\TutionManagementSystem\TutionManagementSystem\bin\Debug\TutionManagementSystem_log.ldf
