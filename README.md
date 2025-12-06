@@ -40,28 +40,28 @@ The Tuition Management System is a C# application designed to simplify tuition-r
 ## Project Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](Screenshots/login.png)
 
 ### User Panel
-![User Panel](screenshots/UserPanel.png)
+![User Panel](Screenshots/UserPanel.png)
 
 ### User Search
-![User Search](screenshots/UserSearch.png)
+![User Search](Screenshots/UserSearch.png)
 
 ### Report User
-![Report Page](screenshots/ReportUser.png)
+![Report Page](Screenshots/ReportUser.png)
 
 ### Admin Panel
-![Admin Panel](screenshots/AdminPanel.png)
+![Admin Panel](Screenshots/AdminPanel.png)
 
 ### View All User
-![View All User](screenshots/ViewAllUser.png)
+![View All User](Screenshots/ViewAllUser.png)
 
 ### User Sign Up (Tutor)
-![Sign Up Page](screenshots/TutorSignUp.png)
+![Sign Up Page](Screenshots/TutorSignUp.png)
 
 ### User Sign Up (Student)
-![Sign Up Page](screenshots/StudentSignUp.png)
+![Sign Up Page](Screenshots/StudentSignUp.png)
 
 ## Contact
 - GitHub: FaisalAhmedRafi
