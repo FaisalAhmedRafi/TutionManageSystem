@@ -40,7 +40,7 @@ The Tuition Management System is a C# application designed to simplify tuition-r
 ## Project Screenshots
 
 ### Login Page
-![Login Page](Screenshots/login.png)
+![Login Page](Screenshots/Login.png)
 
 ### User Panel
 ![User Panel](Screenshots/UserPanel.png)
