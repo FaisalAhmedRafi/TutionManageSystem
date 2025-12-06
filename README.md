@@ -37,6 +37,32 @@ The Tuition Management System is a C# application designed to simplify tuition-r
 - Manage Records: Add, edit, or delete student and tutor details.
 - Find your favourite student or tutor based on your criteria.
 
+## Project Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### User Panel
+![User Panel](screenshots/UserPanel.png)
+
+### User Search
+![User Search](screenshots/UserSearch.png)
+
+### Report User
+![Report Page](screenshots/ReportUser.png)
+
+### Admin Panel
+![Admin Panel](screenshots/AdminPanel.png)
+
+### View All User
+![View All User](screenshots/ViewAllUser.png)
+
+### User Sign Up (Tutor)
+![Sign Up Page](screenshots/TutorSignUp.png)
+
+### User Sign Up (Student)
+![Sign Up Page](screenshots/StudentSignUp.png)
+
 ## Contact
 - GitHub: FaisalAhmedRafi
 - Email: faisalahmedrafi71@gmail.com

@@ -13,7 +13,7 @@
       "RelativeMoniker": "D:0:0:{F621E773-A135-48EB-BF0D-B3EC97FEF669}|TutionManagementSystem\\TutionManagementSystem.csproj|solutionrelative:tutionmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F621E773-A135-48EB-BF0D-B3EC97FEF669}|TutionManagementSystem\\TutionManagementSystem.csproj|d:\\programming\\aiub\\c#\\tutionmanagementsystem\\tutionmanagementsystem\\tutorsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F621E773-A135-48EB-BF0D-B3EC97FEF669}|TutionManagementSystem\\TutionManagementSystem.csproj|D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\tutionmanagementsystem\\tutorsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F621E773-A135-48EB-BF0D-B3EC97FEF669}|TutionManagementSystem\\TutionManagementSystem.csproj|solutionrelative:tutionmanagementsystem\\tutorsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -141,218 +141,20 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "dbo.Admin [Data]",
+              "Title": "dbo.Admin.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__PROGRAMMING_AIUB_C__TUTIONMANAGEMENTSYSTEM_TUTIONMANAGEMENTSYSTEM_TUTIONMANAGEMENTSYSTEM.MDF/True/SqlTable/dbo.Admin.sql",
-              "ToolTip": "dbo.Admin [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__PROGRAMMING_AIUB_C__TUTIONMANAGEMENTSYSTEM_TUTIONMANAGEMENTSYSTEM_TUTIONMANAGEMENTSYSTEM.MDF/True/SqlTable/dbo.Admin.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-12-06T13:43:10.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T13:43:10.63Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "dbo.Student [Data]",
+              "Title": "dbo.Student.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__PROGRAMMING_AIUB_C__TUTIONMANAGEMENTSYSTEM_TUTIONMANAGEMENTSYSTEM_TUTIONMANAGEMENTSYSTEM.MDF/True/SqlTable/dbo.Student.sql",
-              "ToolTip": "dbo.Student [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__PROGRAMMING_AIUB_C__TUTIONMANAGEMENTSYSTEM_TUTIONMANAGEMENTSYSTEM_TUTIONMANAGEMENTSYSTEM.MDF/True/SqlTable/dbo.Student.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-12-06T13:41:24.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TutorSignUp.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\TutorSignUp.cs",
-              "RelativeDocumentMoniker": "TutionManagementSystem\\TutorSignUp.cs",
-              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\TutorSignUp.cs [Design]",
-              "RelativeToolTip": "TutionManagementSystem\\TutorSignUp.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T10:11:33.26Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Login.cs",
-              "RelativeDocumentMoniker": "TutionManagementSystem\\Login.cs",
-              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Login.cs [Design]",
-              "RelativeToolTip": "TutionManagementSystem\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T14:43:09.558Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Login.cs",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Login.cs",
-              "RelativeDocumentMoniker": "TutionManagementSystem\\Login.cs",
-              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Login.cs",
-              "RelativeToolTip": "TutionManagementSystem\\Login.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAnwJsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T14:43:12.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Login.Designer.cs",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Login.Designer.cs",
-              "RelativeDocumentMoniker": "TutionManagementSystem\\Login.Designer.cs",
-              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Login.Designer.cs",
-              "RelativeToolTip": "TutionManagementSystem\\Login.Designer.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T06:37:16.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Student.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Student.cs",
-              "RelativeDocumentMoniker": "TutionManagementSystem\\Student.cs",
-              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Student.cs [Design]",
-              "RelativeToolTip": "TutionManagementSystem\\Student.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T14:48:12.562Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentSearch.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\StudentSearch.cs",
-              "RelativeDocumentMoniker": "TutionManagementSystem\\StudentSearch.cs",
-              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\StudentSearch.cs [Design]",
-              "RelativeToolTip": "TutionManagementSystem\\StudentSearch.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T10:02:17.47Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Report.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Report.cs",
-              "RelativeDocumentMoniker": "TutionManagementSystem\\Report.cs",
-              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Report.cs [Design]",
-              "RelativeToolTip": "TutionManagementSystem\\Report.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T12:24:42.491Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Delete.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Delete.cs",
-              "RelativeDocumentMoniker": "TutionManagementSystem\\Delete.cs",
-              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Delete.cs [Design]",
-              "RelativeToolTip": "TutionManagementSystem\\Delete.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T09:34:15.151Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AdminUpdateTutor.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\AdminUpdateTutor.cs",
-              "RelativeDocumentMoniker": "TutionManagementSystem\\AdminUpdateTutor.cs",
-              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\AdminUpdateTutor.cs [Design]",
-              "RelativeToolTip": "TutionManagementSystem\\AdminUpdateTutor.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T09:31:59.025Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ViewUser.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\ViewUser.cs",
-              "RelativeDocumentMoniker": "TutionManagementSystem\\ViewUser.cs",
-              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\ViewUser.cs [Design]",
-              "RelativeToolTip": "TutionManagementSystem\\ViewUser.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T10:13:36.156Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AdminUpdateStudent.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\AdminUpdateStudent.cs",
-              "RelativeDocumentMoniker": "TutionManagementSystem\\AdminUpdateStudent.cs",
-              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\AdminUpdateStudent.cs [Design]",
-              "RelativeToolTip": "TutionManagementSystem\\AdminUpdateStudent.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T09:29:34.101Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Admin.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Admin.cs",
-              "RelativeDocumentMoniker": "TutionManagementSystem\\Admin.cs",
-              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Admin.cs [Design]",
-              "RelativeToolTip": "TutionManagementSystem\\Admin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T13:40:39.883Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Admin.Designer.cs",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Admin.Designer.cs",
-              "RelativeDocumentMoniker": "TutionManagementSystem\\Admin.Designer.cs",
-              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Admin.Designer.cs",
-              "RelativeToolTip": "TutionManagementSystem\\Admin.Designer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T13:44:16.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Admin.resx",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Admin.resx",
-              "RelativeDocumentMoniker": "TutionManagementSystem\\Admin.resx",
-              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Admin.resx",
-              "RelativeToolTip": "TutionManagementSystem\\Admin.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-12-06T12:54:02.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Student.cs",
-              "RelativeDocumentMoniker": "TutionManagementSystem\\Student.cs",
-              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Student.cs",
-              "RelativeToolTip": "TutionManagementSystem\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T14:48:28.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TutorSearch.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\TutorSearch.cs",
-              "RelativeDocumentMoniker": "TutionManagementSystem\\TutorSearch.cs",
-              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\TutorSearch.cs [Design]",
-              "RelativeToolTip": "TutionManagementSystem\\TutorSearch.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T10:08:41.937Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-06T13:41:24.368Z"
             },
             {
               "$type": "Document",
@@ -392,6 +194,186 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TutorSignUp.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\TutorSignUp.cs",
+              "RelativeDocumentMoniker": "TutionManagementSystem\\TutorSignUp.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\TutorSignUp.cs [Design]",
+              "RelativeToolTip": "TutionManagementSystem\\TutorSignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:11:33.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Login.cs",
+              "RelativeDocumentMoniker": "TutionManagementSystem\\Login.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Login.cs [Design]",
+              "RelativeToolTip": "TutionManagementSystem\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:43:09.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Login.cs",
+              "RelativeDocumentMoniker": "TutionManagementSystem\\Login.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Login.cs",
+              "RelativeToolTip": "TutionManagementSystem\\Login.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAnwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:43:12.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "TutionManagementSystem\\Login.Designer.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Login.Designer.cs",
+              "RelativeToolTip": "TutionManagementSystem\\Login.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:37:16.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Student.cs",
+              "RelativeDocumentMoniker": "TutionManagementSystem\\Student.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Student.cs [Design]",
+              "RelativeToolTip": "TutionManagementSystem\\Student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:48:12.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentSearch.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\StudentSearch.cs",
+              "RelativeDocumentMoniker": "TutionManagementSystem\\StudentSearch.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\StudentSearch.cs [Design]",
+              "RelativeToolTip": "TutionManagementSystem\\StudentSearch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:02:17.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Report.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Report.cs",
+              "RelativeDocumentMoniker": "TutionManagementSystem\\Report.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Report.cs [Design]",
+              "RelativeToolTip": "TutionManagementSystem\\Report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:24:42.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Delete.cs",
+              "RelativeDocumentMoniker": "TutionManagementSystem\\Delete.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Delete.cs [Design]",
+              "RelativeToolTip": "TutionManagementSystem\\Delete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:34:15.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminUpdateTutor.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\AdminUpdateTutor.cs",
+              "RelativeDocumentMoniker": "TutionManagementSystem\\AdminUpdateTutor.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\AdminUpdateTutor.cs [Design]",
+              "RelativeToolTip": "TutionManagementSystem\\AdminUpdateTutor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:31:59.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewUser.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\ViewUser.cs",
+              "RelativeDocumentMoniker": "TutionManagementSystem\\ViewUser.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\ViewUser.cs [Design]",
+              "RelativeToolTip": "TutionManagementSystem\\ViewUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:13:36.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminUpdateStudent.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\AdminUpdateStudent.cs",
+              "RelativeDocumentMoniker": "TutionManagementSystem\\AdminUpdateStudent.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\AdminUpdateStudent.cs [Design]",
+              "RelativeToolTip": "TutionManagementSystem\\AdminUpdateStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:29:34.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Admin.cs",
+              "RelativeDocumentMoniker": "TutionManagementSystem\\Admin.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Admin.cs [Design]",
+              "RelativeToolTip": "TutionManagementSystem\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:40:39.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Admin.Designer.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Admin.Designer.cs",
+              "RelativeDocumentMoniker": "TutionManagementSystem\\Admin.Designer.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Admin.Designer.cs",
+              "RelativeToolTip": "TutionManagementSystem\\Admin.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:44:16.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Admin.resx",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Admin.resx",
+              "RelativeDocumentMoniker": "TutionManagementSystem\\Admin.resx",
+              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Admin.resx",
+              "RelativeToolTip": "TutionManagementSystem\\Admin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-06T12:54:02.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Student.cs",
+              "RelativeDocumentMoniker": "TutionManagementSystem\\Student.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Student.cs",
+              "RelativeToolTip": "TutionManagementSystem\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:48:28.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TutorSearch.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\TutorSearch.cs",
+              "RelativeDocumentMoniker": "TutionManagementSystem\\TutorSearch.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\TutorSearch.cs [Design]",
+              "RelativeToolTip": "TutionManagementSystem\\TutorSearch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:08:41.937Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Program.cs",
@@ -400,8 +382,7 @@
               "RelativeToolTip": "TutionManagementSystem\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T13:07:56.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T13:07:56.976Z"
             },
             {
               "$type": "Document",
@@ -413,8 +394,7 @@
               "RelativeToolTip": "TutionManagementSystem\\Student.Designer.cs",
               "ViewState": "AgIAALIBAAAAAAAAAAAkwLIBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T13:21:23.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T13:21:23.682Z"
             },
             {
               "$type": "Document",
@@ -426,8 +406,7 @@
               "RelativeToolTip": "TutionManagementSystem\\StudentSignUp.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAgwCIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T13:34:10.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T13:34:10.658Z"
             },
             {
               "$type": "Document",
@@ -438,8 +417,7 @@
               "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\StudentSignUp.cs [Design]",
               "RelativeToolTip": "TutionManagementSystem\\StudentSignUp.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T10:05:00.368Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-08-02T10:05:00.368Z"
             },
             {
               "$type": "Document",
@@ -451,8 +429,7 @@
               "RelativeToolTip": "TutionManagementSystem\\Delete.Designer.cs",
               "ViewState": "AgIAAJsAAAAAAAAAAADwv5sAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T09:35:22.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T09:35:22.282Z"
             },
             {
               "$type": "Document",
@@ -464,8 +441,7 @@
               "RelativeToolTip": "TutionManagementSystem\\Delete.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T09:35:10.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T09:35:10.874Z"
             },
             {
               "$type": "Document",
@@ -477,8 +453,7 @@
               "RelativeToolTip": "TutionManagementSystem\\Admin.cs",
               "ViewState": "AgIAAKgAAAAAAAAAAAAAwLYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T13:44:02.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T13:44:02.496Z"
             },
             {
               "$type": "Document",
@@ -490,8 +465,7 @@
               "RelativeToolTip": "TutionManagementSystem\\Tutor.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAcwKoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T11:53:16.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T11:53:16.898Z"
             },
             {
               "$type": "Document",
@@ -503,8 +477,7 @@
               "RelativeToolTip": "TutionManagementSystem\\Report.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAcwDMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T12:24:47.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T12:24:47.144Z"
             },
             {
               "$type": "Document",
@@ -515,8 +488,7 @@
               "ToolTip": "D:\\Programming\\AIUB\\C#\\TutionManagementSystem\\TutionManagementSystem\\Tutor.cs [Design]",
               "RelativeToolTip": "TutionManagementSystem\\Tutor.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T11:53:14.286Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-08-01T11:53:14.286Z"
             }
           ]
         }
